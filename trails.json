@@ -1,0 +1,387 @@
+{"trails": [
+    {
+        "name": "Flint Creek Trail",
+        "difficulty": "Easy",
+        "distance_miles": 1.5,
+        "drive_time_mins": 7,
+        "est_hike_time_hrs": 1,
+        "location": "Wheeler Wildlife Refuge"
+    },
+    {
+        "name": "Saugahoagdee Falls Trail",
+        "difficulty": "Easy",
+        "distance_miles": 3.4,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 1.5,
+        "location": "Saugahoagdee Falls, Bankhead National Forest"
+    },
+    {
+        "name": "Shangri-La Falls",
+        "difficulty": "Moderate",
+        "distance_miles": 2.9,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 2,
+        "location": "Shangri-La Falls, Bankhead National Forest"
+    },
+    {
+        "name": "Little Ugly Creek Falls, Deer Skull Falls, and Eagle Creek Falls Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 3.2,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 3,
+        "location": "Little Ugly Creek Falls, Deer Skull Falls, and Eagle Creek Falls, Bankhead National Forest"
+    },
+    {
+        "name": "Parker Falls Trail",
+        "difficulty": "Easy",
+        "distance_miles": 1.8,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 1,
+        "location": "Trailhead for Parker Falls, 8G33+2W7, Peddle, AL 35565"
+    },
+    {
+        "name": "Randolph and Sipsey LoopTrail",
+        "difficulty": "Hard",
+        "distance_miles": 8.8,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 4,
+        "location": "Randolph Trailhead Cranal Rd, Double Springs, AL 35553"
+    },
+    {
+        "name": "Rainbow Loop Trail and Ja-Moo-Ko Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 2.3,
+        "drive_time_mins": 0.75,
+        "est_hike_time_hrs": 1.5,
+        "location": "Rainbow Mountain Trail Parking, 190 Stoneway Trail, Madison, AL 35758"
+    },
+    {
+        "name": "Three Caves via Alms House Trail",
+        "difficulty": "Easy",
+        "distance_miles": 3.7,
+        "drive_time_mins": 0.75,
+        "est_hike_time_hrs": 2,
+        "location": "Monte Sano Nature Preserve  (Bankhead Pkwy NE, Huntsville, AL 35801)"
+    },
+    {
+        "name": "West Bluff Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 2.7,
+        "drive_time_mins": 60,
+        "est_hike_time_hrs": 1.5,
+        "location": "Montana oracion Luz a las Naciones, Blevins Gap Nature Preserve, Land Trust of North Alabama:, 3470 Cecil Ashburn Dr SE, Huntsville, AL 35802"
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    },
+    {
+        "name": "",
+        "difficulty": "",
+        "distance_miles": null,
+        "drive_time_mins": null,
+        "est_hike_time_hrs": null,
+        "location": ""
+    }
+]
+}
