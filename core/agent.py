@@ -1,3 +1,5 @@
+import time
+
 from google import genai
 
 def get_trail_recommendation(trails, weather, preferences):
@@ -11,22 +13,23 @@ def get_trail_recommendation(trails, weather, preferences):
          return f"Error initializing client. Is GEMINI_API_KEY set? Details: {e}"
 
     # Construct the prompt
-    # Construct the prompt
     prompt = f"""
     You are an expert outdoor guide and personalized hiking assistant. Your job is to analyze 
     a provided list of trails, the current regional weather forecasts, and the user's preferred 
     difficulty level to recommend the absolute best trail for them to hike today.
 
     Rules:
+Rules:
     1. Never recommend a trail if the weather conditions in its specific location are dangerous.
     2. Always try to match the difficulty level requested by the user.
-    3. YOU MUST FILL IN THE BRACKETED PLACEHOLDERS (e.g., [High], [Trail Name]) in the HTML template below with the actual data and your generated advice. Do not just echo the brackets back to me.
+    3. YOU MUST FILL IN THE BRACKETED PLACEHOLDERS in the HTML template below with the actual data and your generated advice. 
+    4. For the "Navigate to Trailhead" button, take the text from the 'location' field of the winning trail, format it for a URL (replace spaces with +), and insert it at the end of the Google Maps search link.
 
     Here is the data for today's hike:
     
     User Preferences:
-    - Desired Difficulty: {preferences['difficulty']}
-    - Max Drive Time: {preferences['max_drive_mins']} minutes
+    - Desired Difficulty: {preferences.get('difficulty')}
+    - Max Elevation Gain: {preferences.get('max_elevation_gain')} feet
     
     Regional Weather Forecasts:
     {weather}
@@ -57,13 +60,17 @@ def get_trail_recommendation(trails, weather, preferences):
             </div>
 
             <h3 style="color: #2E7D32; border-bottom: 2px solid #eee; padding-bottom: 5px;">🥾 Why this trail today?</h3>
-            <p>[Insert your explanation of why it fits the difficulty and cross-reference specific weather stats]</p>
+            <p>[Insert your explanation of why it fits the difficulty, how the elevation gain fits the user's max limit, and cross-reference specific weather stats]</p>
 
             <h3 style="color: #2E7D32; border-bottom: 2px solid #eee; padding-bottom: 5px;">🦵 Leg Endurance Factor</h3>
-            <p>[Insert a 1-10 score on how well this specific trail builds leg strength, and briefly explain why]</p>
+            <p>[Insert a 1-10 score on how well this specific trail builds leg strength based on its elevation gain, and briefly explain why]</p>
             
             <h3 style="color: #2E7D32; border-bottom: 2px solid #eee; padding-bottom: 5px;">🎒 Weather & Gear Prep</h3>
             <p>[Insert specific gear or timing advice based strictly on today's expanded forecast metrics]</p>
+
+            <div style="text-align: center; margin-top: 30px; margin-bottom: 10px;">
+                <a href="https://www.google.com/maps/search/?api=1&query=[Insert 'location' text here, replacing spaces with +]" style="background-color: #2E7D32; color: white; padding: 14px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block; font-size: 16px;">🗺️ Navigate to Trailhead</a>
+            </div>
         </div>
     </div>
     """
