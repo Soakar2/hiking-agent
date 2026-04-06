@@ -3,39 +3,39 @@
         "name": "Flint Creek Trail",
         "difficulty": "Easy",
         "distance_miles": 1.5,
-        "drive_time_mins": 7,
+        "elevation_gain": 6,
         "est_hike_time_hrs": 1,
-        "location": "Wheeler Wildlife Refuge"
+        "location": "2899 Handicapped Pier Acc, Decatur, AL 35603"
     },
     {
         "name": "Saugahoagdee Falls Trail",
         "difficulty": "Easy",
         "distance_miles": 3.4,
-        "drive_time_mins": 60,
+        "elevation_gain": 331,
         "est_hike_time_hrs": 1.5,
-        "location": "Saugahoagdee Falls, Bankhead National Forest"
+        "location": "Sougahoagdee Falls Parking, Hickory Grove Rd, Houston, AL 35572"
     },
     {
         "name": "Shangri-La Falls",
         "difficulty": "Moderate",
         "distance_miles": 2.9,
-        "drive_time_mins": 60,
+        "elevation_gain": 275,
         "est_hike_time_hrs": 2,
-        "location": "Shangri-La Falls, Bankhead National Forest"
+        "location": "Mt Olive Rd, Houston, AL 35572"
     },
     {
         "name": "Little Ugly Creek Falls, Deer Skull Falls, and Eagle Creek Falls Loop",
         "difficulty": "Moderate",
         "distance_miles": 3.2,
-        "drive_time_mins": 60,
+        "elevation_gain": 302,
         "est_hike_time_hrs": 3,
-        "location": "Little Ugly Creek Falls, Deer Skull Falls, and Eagle Creek Falls, Bankhead National Forest"
+        "location": "Trailhead for Eagle Falls, 7HM6+CM, Ashridge, AL 35553"
     },
     {
         "name": "Parker Falls Trail",
         "difficulty": "Easy",
         "distance_miles": 1.8,
-        "drive_time_mins": 60,
+        "elevation_gain": 269,
         "est_hike_time_hrs": 1,
         "location": "Trailhead for Parker Falls, 8G33+2W7, Peddle, AL 35565"
     },
@@ -43,7 +43,7 @@
         "name": "Randolph and Sipsey LoopTrail",
         "difficulty": "Hard",
         "distance_miles": 8.8,
-        "drive_time_mins": 60,
+        "elevation_gain": 60,
         "est_hike_time_hrs": 4,
         "location": "Randolph Trailhead Cranal Rd, Double Springs, AL 35553"
     },
@@ -51,7 +51,7 @@
         "name": "Rainbow Loop Trail and Ja-Moo-Ko Loop",
         "difficulty": "Moderate",
         "distance_miles": 2.3,
-        "drive_time_mins": 0.75,
+        "elevation_gain": 0.75,
         "est_hike_time_hrs": 1.5,
         "location": "Rainbow Mountain Trail Parking, 190 Stoneway Trail, Madison, AL 35758"
     },
@@ -59,7 +59,7 @@
         "name": "Three Caves via Alms House Trail",
         "difficulty": "Easy",
         "distance_miles": 3.7,
-        "drive_time_mins": 0.75,
+        "elevation_gain": 0.75,
         "est_hike_time_hrs": 2,
         "location": "Monte Sano Nature Preserve  (Bankhead Pkwy NE, Huntsville, AL 35801)"
     },
@@ -67,321 +67,345 @@
         "name": "West Bluff Trail",
         "difficulty": "Moderate",
         "distance_miles": 2.7,
-        "drive_time_mins": 60,
+        "elevation_gain": 60,
         "est_hike_time_hrs": 1.5,
         "location": "Montana oracion Luz a las Naciones, Blevins Gap Nature Preserve, Land Trust of North Alabama:, 3470 Cecil Ashburn Dr SE, Huntsville, AL 35802"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Cove Mountain Trail to Little Brier Gap",
+        "difficulty": "Hard",
+        "distance_miles": 11.6,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 7,
+        "location": "Cove Mountain Trail Trailhead, Sugarlands Residence Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Gold Mine & Cane Creek Trails",
+        "difficulty": "Moderate",
+        "distance_miles": 7.3,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 3.5,
+        "location": "6210 Flats Rd, Tallassee, TN 37878"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Mount Mitchell Trail",
+        "difficulty": "Hard",
+        "distance_miles": 11.8,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 9,
+        "location": "2954 S Toe River Rd, Burnsville, NC 28714"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Black Balsam Knob via Art Loeb Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 1.4,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 1.0,
+        "location": "Art Loeb & Black Balsam Knob Trailhead, Black Balsam Knob Rd, Canton, NC 28716"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Looking Glass Rock Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 5.8,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 4,
+        "location": "Looking Glass Rock Trailhead, Brevard, NC 28712"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Triple Falls Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 2.6,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 1.5,
+        "location": "Triple Falls Parking, Unnamed Road, Hendersonville, NC 28739"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Mount Joy Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 8.2,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 4.5,
+        "location": "5813-5695 E Armuchee Rd, LaFayette, GA 30728"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Turkey Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 5.1,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 2.5,
+        "location": "5813-5695 E Armuchee Rd, LaFayette, GA 30728"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Resaca Battlefield: Red, White and Blue Trail Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 5.2,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 2.5,
+        "location": "Resaca Battlefield Historic Site, 6 Georgia 136, Resaca, GA 30175"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Johns Mountain and Pinhoti Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 4.8,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 3,
+        "location": "Keown Falls Picnic Area and Trailhead, Forest Service Rd 702, LaFayette, GA 30728"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Keown Falls Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 1.8,
+        "elevation_gain": null,
+        "est_hike_time_hrs": 1.5,
+        "location": "Keown Falls Picnic Area and Trailhead, Forest Service Rd 702, LaFayette, GA 30728"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Deer Skull Falls and Wolfpen Falls Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 4.1,
+        "elevation_gain": 387,
+        "est_hike_time_hrs": 2,
+        "location": "Trailhead for Eagle Falls, 7HM6+CM, Ashridge, AL 35553"
     },
     {
-        "name": "",
+        "name": "Baskins Creek Falls via Rainbow Falls Trailhead",
         "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "distance_miles": 3.7,
+        "elevation_gain": 1030,
+        "est_hike_time_hrs": 3,
+        "location": "Parking lot, 1626 Cherokee Orchard Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Maddron Bald Trail to Albright Grove Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 6.7,
+        "elevation_gain": 1456,
+        "est_hike_time_hrs": 5,
+        "location": "Maddron Bald Trailhead, Cosby, TN, Maddron Bald Trail, Cosby, TN 37722"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Appalachian Trail to Mount Kephart and Icewater Spring Shelter",
+        "difficulty": "6.4",
+        "distance_miles": 6.4,
+        "elevation_gain": 1496,
+        "est_hike_time_hrs": 4.5,
+        "location": "Laura Spelman Rockefeller Memorial, Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Appalachian Trail: Newfound Gap to Sweat Heifer Creek Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 3.3,
+        "elevation_gain": 856,
+        "est_hike_time_hrs": 2.5,
+        "location": "Appalachian Trailhead, North Carolina 28713"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Cucumber Gap and Little River Loop Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 5.6,
+        "elevation_gain": 787,
+        "est_hike_time_hrs": 3.5,
+        "location": "603 Little River Trl, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Brushy Mountain Trail",
+        "difficulty": "Hard",
+        "distance_miles": 11.6,
+        "elevation_gain": 3047,
+        "est_hike_time_hrs": 8,
+        "location": "Porters Creek Trail Trailhead, Greenbrier Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Engine Creek Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 4,
+        "elevation_gain": 836,
+        "est_hike_time_hrs": 2.5,
+        "location": "Greenbrier Quarters & Ranger Station, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Mingo Falls Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 0.3,
+        "elevation_gain": 114,
+        "est_hike_time_hrs": 1,
+        "location": "42 Mingo Falls Bridge Rd, Cherokee, NC 28719"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Andrews Bald Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 3.6,
+        "elevation_gain": 875,
+        "est_hike_time_hrs": 2.5,
+        "location": "7105 Kuwohi Rd, Cherokee, NC 28719"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Kuwohi Observation Tower Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 1.3,
+        "elevation_gain": 337,
+        "est_hike_time_hrs": 1,
+        "location": "Kuwohi Trailhead, Bryson City, NC 28713"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Huskey Branch Falls via Little River Trail",
+        "difficulty": "Easy",
+        "distance_miles": 4.3,
+        "elevation_gain": 347,
+        "est_hike_time_hrs": 2,
+        "location": "603 Little River Trl, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Ramsey Cascades Trail",
+        "difficulty": "Hard",
+        "distance_miles": 7.9,
+        "elevation_gain": 2185,
+        "est_hike_time_hrs": 6,
+        "location": "Ramsey Cascades Trailhead Parking, Ramsey Prong Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Quilliam Cave via Courthouse Rock Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 2.9,
+        "elevation_gain": 1204,
+        "est_hike_time_hrs": 2.5,
+        "location": "2438 Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Grotto Falls via Trillium Gap Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 2.6,
+        "elevation_gain": 521,
+        "est_hike_time_hrs": 2,
+        "location": "Grotto Falls Parking, Roaring Fork Motor Nature Trail, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Myrtle Point and Mount LeConte via Alum Cave Trail",
+        "difficulty": "Hard",
+        "distance_miles": 12,
+        "elevation_gain": 3110,
+        "est_hike_time_hrs": 8,
+        "location": "3625 Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Rainbow Falls Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 5.2,
+        "elevation_gain": 1594,
+        "est_hike_time_hrs": 4,
+        "location": "1574 Cherokee Orchard Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Peregrine Peak via Alum Cave Bluff Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 4.6,
+        "elevation_gain": 1161,
+        "est_hike_time_hrs": 3,
+        "location": "3625 Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Charlies Bunion via Appalachian Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 8,
+        "elevation_gain": 1886,
+        "est_hike_time_hrs": 5,
+        "location": "Laura Spelman Rockefeller Memorial, Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
+        "name": "Alum Cave Trail to Mount LeConte",
+        "difficulty": "Hard",
+        "distance_miles": 11.2,
+        "elevation_gain": 3077,
         "est_hike_time_hrs": null,
-        "location": ""
+        "location": "3625 Newfound Gap Rd, Gatlinburg, TN 37738"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Knotty Pine Mountain Bike Trail",
+        "difficulty": "Easy",
+        "distance_miles": 1.1,
+        "elevation_gain": 78,
+        "est_hike_time_hrs": 1,
+        "location": "Civilian Conservation Corps Museum, 51 Desoto Pkwy, Fort Payne, AL 35967"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "DeSoto Scout and Gilliam Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 3,
+        "elevation_gain": 337,
+        "est_hike_time_hrs": 1.5,
+        "location": "Chalet Trail, F9QR+WJ, Fort Payne, AL 35967"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Laurel Falls from Lost Falls Trailhead",
+        "difficulty": "Moderate",
+        "distance_miles": 2.3,
+        "elevation_gain": 206,
+        "est_hike_time_hrs": 1,
+        "location": "Family Loop Trail, Desoto Pkwy, Fort Payne, AL 35967"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Never Never Land Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 3,
+        "elevation_gain": 213,
+        "est_hike_time_hrs": 1.5,
+        "location": "Family Loop Trail, Desoto Pkwy, Fort Payne, AL 35967"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Laurel Falls and Lost Falls Trails Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 2.4,
+        "elevation_gain": 206,
+        "est_hike_time_hrs": 1,
+        "location": "Country Store-Gifts and Information Center, 7104 Desoto Pkwy NE, Fort Payne, AL 35967"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Walls of Jericho (AL Trailhead)",
+        "difficulty": "Hard",
+        "distance_miles": 6.7,
+        "elevation_gain": 1351,
+        "est_hike_time_hrs": 4,
+        "location": "Walls of Jericho Alabama HikingTrailhead, Parking lot, Estillfork, AL 35745"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Plateau Loop Trail",
+        "difficulty": "Easy",
+        "distance_miles": 4.9,
+        "elevation_gain": 262,
+        "est_hike_time_hrs": 2.5,
+        "location": "Monte Sano State Park Hiker's Parking Lot, Huntsville, AL 35801"
     },
     {
-        "name": "",
-        "difficulty": "",
-        "distance_miles": null,
-        "drive_time_mins": null,
-        "est_hike_time_hrs": null,
-        "location": ""
+        "name": "Mountain Mist Loop",
+        "difficulty": "6.4",
+        "distance_miles": 6.4,
+        "elevation_gain": 452,
+        "est_hike_time_hrs": 3,
+        "location": "Monte Sano Main Trailhead Parking, SE Nolen Ave, Huntsville, AL 35801"
+    },
+    {
+        "name": "McKay Hollow Trail",
+        "difficulty": "Moderate",
+        "distance_miles": 4.3,
+        "elevation_gain": 682,
+        "est_hike_time_hrs": 2.5,
+        "location": "1 Picnic Cir SE, Huntsville, AL 35801"
+    },
+    {
+        "name": "Chasco Trail and Driskell Trail Loop",
+        "difficulty": "Easy",
+        "distance_miles": 1.4,
+        "elevation_gain": 65,
+        "est_hike_time_hrs": 1,
+        "location": "Chapman Mountain Bird Blinds, 1263 US-72, Huntsville, AL 35811"
+    },
+    {
+        "name": "Sinks Trail to Stone Cuts Loop",
+        "difficulty": "Moderate",
+        "distance_miles": 2.6,
+        "elevation_gain": 570,
+        "est_hike_time_hrs": 1.5,
+        "location": "Monte Sano State Park, 5105 SE Nolen Ave, Huntsville, AL 35801"
     }
 ]
 }
