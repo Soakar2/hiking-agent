@@ -3,7 +3,7 @@ import json
 from dotenv import load_dotenv
 from core.weather import get_forecast  # Assuming you made this file!
 from core.agent import get_trail_recommendation
-
+from core.email import send_recommendation_email  # Assuming you made this file!
 def load_trails(filepath):
     try:
         with open(filepath, 'r') as file:
@@ -40,7 +40,16 @@ def main():
     # 4. Pass the combined context to the agent
     recommendation = get_trail_recommendation(trails, regional_weather, preferences)
     
-    print("\n" + recommendation)
+# --- THE NEW SAFETY CHECK ---
+    if recommendation:
+        print("\n" + recommendation)
+        
+        # 5. Send the email!
+        print("-" * 20 + "\nSending email...")
+        send_recommendation_email(recommendation)
+    else:
+        # If recommendation is None, the script will just quietly end here!
+        print("\nAgent failed to generate a recommendation. Aborting email.")
 
 if __name__ == "__main__":
     main()
