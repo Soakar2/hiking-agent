@@ -1,5 +1,10 @@
 import streamlit as st
 import re
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+CSV_PATH = os.getenv("SUBSCRIBERS_CSV_PATH")
 
 # Simple regex for email validation
 def is_valid_email(email):
@@ -16,7 +21,7 @@ with st.form("signup_form", clear_on_submit=True):
     if submit_button:
         if is_valid_email(email):
             # Save to a local file (CSV) for now
-            with open("subscribers.csv", "a") as f:
+            with open(CSV_PATH, "a") as f:
                 f.write(f"{email}\n")
             st.success(f"Dope! {email} has been added to the list.")
         else:

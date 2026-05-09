@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from core.weather import get_forecast  # Assuming you made this file!
 from core.agent import get_trail_recommendation
 from core.email import send_recommendation_email  # Assuming you made this file!
+
 def load_trails(filepath):
     try:
         with open(filepath, 'r') as file:
@@ -15,10 +16,10 @@ def load_trails(filepath):
 
 def main():
     load_dotenv()
-    
+    trails_json_path = os.getenv("TRAILS_JSON_PATH")
     # 1. Load Trails
-    trails = load_trails('/data/trails.json')
-    
+    trails = load_trails(trails_json_path)
+
     # 2. Extract unique locations and fetch weather
     print("Fetching weather data...")
     unique_locations = set(trail.get("location") for trail in trails if trail.get("location"))

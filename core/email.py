@@ -10,8 +10,7 @@ def send_recommendation_email(recommendation_text):
     sender_password = os.getenv("SENDER_PASSWORD")
     
     # 2. Path Logic: Find subscribers.csv in the same folder as this script
-    base_path = os.path.dirname(os.path.abspath(__file__))
-    csv_path = os.path.join(base_path, '../subscribers.csv')
+    csv_path = os.getenv("SUBSCRIBERS_CSV_PATH")
     
     # 3. Validation Check
     if not all([sender_email, sender_password]):
